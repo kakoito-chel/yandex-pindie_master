@@ -1,6 +1,6 @@
 # PindieAPI
 
-### — [Фронтенд](https://github.com/lumenpearson/practicum-pindie_frontend)
+### — [Фронтенд](https://github.com/kakoito-chel/yandex-pindie_master/tree/main/yandex-pindie-frontend_master)
 
 ### — [Домен фронтенда](https://lumens-pindie.nomoredomainswork.ru)
 
